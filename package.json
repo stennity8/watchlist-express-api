@@ -1,0 +1,14 @@
+{
+  "name": "watchlist-express-api",
+  "version": "1.0.0",
+  "description": "\"API for Watchlist app\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Shawn Tennity",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
